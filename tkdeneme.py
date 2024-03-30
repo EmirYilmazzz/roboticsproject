@@ -23,3 +23,4 @@ scene.bind('keydown', rotate_axes)
 
 # Run the scene
 scene.waitfor('click')
+    
